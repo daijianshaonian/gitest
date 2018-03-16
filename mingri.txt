@@ -1,3 +1,8 @@
 你和我曾有满满的羽毛
 mingri.txtmingri.txtmingri.txtmingri.txt
+<<<<<<< HEAD
+=======
+你和我背着空空的书包
+逃出名为日常的监牢
+>>>>>>> origin/master
 跳着名为青春的舞蹈
